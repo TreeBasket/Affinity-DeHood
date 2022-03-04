@@ -1,2 +1,2 @@
 # Affinity-DeHood
-idk
+-- Use loadstring below for autoupdates
